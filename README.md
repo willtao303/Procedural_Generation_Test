@@ -2,8 +2,7 @@
 A quick project using perlin
 
 # Install
-Packages:
-- Not required (i think) but: https://github.com/stalengd/QuickRuleTileEditor.git
+Packages: None<br>
 Version: 2021.3.13f1
 
 1. Download files
